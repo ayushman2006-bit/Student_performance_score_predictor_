@@ -84,7 +84,7 @@ The notebook includes:
 
 ---
 
-## 🤖 Machine Learning Models
+ Machine Learning Models
 
 The following regression models were trained and evaluated:
 
@@ -94,7 +94,7 @@ The following regression models were trained and evaluated:
 
 ---
 
-## 📈 Evaluation Metrics
+Evaluation Metrics
 
 Model performance is evaluated using:
 
@@ -114,7 +114,7 @@ Future Improvements
 
 ---
 
-#📷 Sample Output
+Sample Output
 
 The project generates:
 
